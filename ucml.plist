@@ -11,7 +11,7 @@
      <key>kind</key>
      <string>software-package</string>
      <key>url</key>
-     <string>https://raw.githubusercontent.com/trains629/plist/master/ucml.ipa</string>
+     <string>http://202.96.1.182:3000/app/ucml.ipa</string>
     </dict>
     <dict>
      <key>kind</key>
