@@ -11,7 +11,7 @@
      <key>kind</key>
      <string>software-package</string>
      <key>url</key>
-     <string>https://raw.githubusercontent.com/trains629/plist/master/item_2.ipa</string>
+     <string>http://202.96.1.182:3000/app/item_10.ipa</string>
     </dict>
     <dict>
      <key>kind</key>
@@ -33,13 +33,13 @@
    <key>metadata</key>
    <dict>
     <key>bundle-identifier</key>
-    <string>cn.com.ucml.UCML</string>
+    <string>cn.com.ucml.UCML20150729</string>
     <key>bundle-version</key>
     <string>1.0</string>
     <key>kind</key>
     <string>software</string>
     <key>title</key>
-    <string>ucml App download</string>
+    <string>下载修改后的程序</string>
    </dict>
   </dict>
  </array>
