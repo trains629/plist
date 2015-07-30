@@ -19,7 +19,7 @@
      <key>needs-shine</key>
      <true/>
      <key>url</key>
-     <string>http://x5.justep.com/apps/x5.png</string>
+     <string>https://raw.githubusercontent.com/trains629/plist/master/item_2.png</string>
     </dict>
     <dict>
      <key>kind</key>
@@ -27,13 +27,13 @@
      <key>needs-shine</key>
      <true/>
      <key>url</key>
-     <string>http://x5.justep.com/apps/x5.png</string>
+     <string>https://raw.githubusercontent.com/trains629/plist/master/item_2.png</string>
     </dict>
    </array>
    <key>metadata</key>
    <dict>
     <key>bundle-identifier</key>
-    <string>cn.com.ucml.UCML</string>
+    <string>cn.com.ucml.UCMLMobile</string>
     <key>bundle-version</key>
     <string>1.0</string>
     <key>kind</key>
